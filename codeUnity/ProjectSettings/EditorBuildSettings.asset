@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu principal.unity
+    guid: ed73a2bf3058c8047beb2f8d34b21b61
+  - enabled: 1
+    path: Assets/Scenes/Jeu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Perdu.unity
+    guid: 5f652ef76a02def42b8e4d14599a23b3
+  - enabled: 1
+    path: Assets/Scenes/IntroJeu.unity
+    guid: 142d7cc8123a53445be94b10f6818444
+  - enabled: 1
+    path: Assets/Scenes/CompteARebour.unity
+    guid: c541448f851725d4e84f61c2e9c8265f
+  - enabled: 1
+    path: Assets/Scenes/Didacticiel1.unity
+    guid: 4a4af22914449454d86727d73b0f8d63
+  - enabled: 1
+    path: Assets/Scenes/Didacticiel2.unity
+    guid: 2042aa47c3cd3484daaf52b4717e5eaf
+  - enabled: 1
+    path: Assets/Scenes/Didacticiel3.unity
+    guid: 12a7f21c5d885ab48abbbc834d508eca
+  - enabled: 1
+    path: Assets/Scenes/Introduction1.unity
+    guid: b49283606c354f4419ce7565c8758777
+  - enabled: 1
+    path: Assets/Scenes/Introduction2.unity
+    guid: fef5b3d45e688d0489cebbd5e6856510
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 31da39d172b133a4490999f4f00f9556
+  - enabled: 1
+    path: "Assets/Scenes/Gagn\xE9.unity"
+    guid: 5fea14726f28ce441b6f3ae75b8e1bb9
+  - enabled: 1
+    path: Assets/Scenes/DidacticielFin.unity
+    guid: f4f51ae6d99c70847b5e3feb5f731784
+  - enabled: 1
+    path: Assets/Scenes/Didacticiel4.unity
+    guid: 26409a5e9345fba499afef9c02c43272
+  - enabled: 0
+    path: Assets/Scenes/DidacticielApresTest.unity
+    guid: 9e2cca8c35c9af34b8d5a028520c40ad
+  - enabled: 1
+    path: Assets/Scenes/DidacticielMenuTest.unity
+    guid: 946b2b36e50289944a9fa44143e07bd5
+  - enabled: 1
+    path: "Assets/Scenes/DidacticielTestRat\xE9.unity"
+    guid: 4e7a0ae1f9c63cb4e8254146f24cf590
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/DidacticielTest.unity
+    guid: f2c15c309b85bc640acf18a20ccfd583
+  m_configObjects: {}
